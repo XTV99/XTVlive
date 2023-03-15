@@ -14,9 +14,9 @@ http://107.151.203.111:2209/135/hk.php?id=tvbmzt
 http://shazui.8866.org:800/hls/81/index.m3u8
 #EXTINF:-1,TVB华丽台
 http://23.237.10.66:16410
-#EXTINF:-1,TVB星河频道
+#EXTINF:-1,TVB星河频道国语
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941620
-#EXTINF:-1,TVB星河频道
+#EXTINF:-1,TVB星河频道粤语
 http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1,TVB星河频道
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=vFR5CkmzbA
