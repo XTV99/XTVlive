@@ -7,6 +7,8 @@ http://r.jdshipin.com/62WM7
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619
 #EXTINF:-1,无线新闻台
 https://pull-l3-y.douyincdn.com/live/stream-112175tvb1202212212.m3u8
+#EXTINF:-1 ,无线新闻台
+http://107.151.203.111:2209/135/hk.php?id=cable37h
 #EXTINF:-1,明珠台
 http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve4A%3D%3D&pserialnumber=6f9b30ce4249b041&cid=364&id=1351_4500
 #EXTINF:-1,明珠台
