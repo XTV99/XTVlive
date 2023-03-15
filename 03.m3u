@@ -4,8 +4,6 @@
 http://r.jdshipin.com/62WM7
 #EXTINF:-1,翡翠台
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619
-#EXTINF:-1,翡翠台
-http://107.151.203.111:2209/135/hk.php?id=tvbfct
 #EXTINF:-1,无线新闻台
 https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212212.m3u8
 #EXTINF:-1,明珠台
@@ -13,21 +11,15 @@ http://chihomai.top:5678/gudou.php?phone=18664735406&ptoken=0OgMrvQ1pCDopjeG91Ve
 #EXTINF:-1,明珠台
 http://107.151.203.111:2209/135/hk.php?id=tvbmzt
 #EXTINF:-1,J2
-https://live.astradamy.com/tvbj2/index.m3u8
-#EXTINF:-1,J2
 http://shazui.8866.org:800/hls/81/index.m3u8
 #EXTINF:-1,TVB华丽台
 http://23.237.10.66:16410
-#EXTINF:-1,TVB华丽台
-http://r.jdshipin.com/thuYX
 #EXTINF:-1,TVB星河频道
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941620
 #EXTINF:-1,TVB星河频道
 http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1,TVB星河频道
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=vFR5CkmzbA
-#EXTINF:-1,TVB星河频道
-http://lcx-olt.8866.org:8181/tsfile/live/1004_1.m3u8
 #EXTINF:-1,TVB财经台
 https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8?$1M1280x720
 #EXTINF:-1 ,凤凰资讯
