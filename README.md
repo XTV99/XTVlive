@@ -1,5 +1,5 @@
 # XTVlive
-**直播源在线地址综合汇总:[点击查看](https://youshandefeiyang.github.io)**  
+**直播源在线地址综合汇总:[点击查看](https://xtv99.github.io)**  
 **XTV影音数码综合Telegram交流群:[点击加入](https://t.me/XZBTV6)**  
 **XTV影音数码综合Telegram频道:[点击加入](https://t.me/XZBTV6)**  
 # 免责声明
